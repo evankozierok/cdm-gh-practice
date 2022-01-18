@@ -7,3 +7,5 @@ then people could communicate with paper and ink which led to the invention of t
 Soon came the advent of typewriters, the precursors to today's keyboards
 
 and then computers, where everything changed...
+
+Their numerical ways allowed for `algorithms` to automate media, letting humans sit back and relax
